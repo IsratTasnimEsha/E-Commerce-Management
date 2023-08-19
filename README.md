@@ -58,8 +58,6 @@ Once your system is up and running, the user-friendly web interface empowers you
 - **Manage Orders:** Process customer orders, update order statuses, and manage shipping details efficiently.
 - **Customer Management:** Maintain customer profiles and order histories for personalized services.
 - **Generate Reports:** Generate comprehensive sales reports, inventory summaries, and more.
- 
-For more detailed instructions, refer to our comprehensive User Guide.
 
 ## Contributing
 
@@ -70,8 +68,7 @@ We welcome contributions from the community! If you're interested in contributin
 3. **Make Changes:** Enhance and update as needed, then save your changes.
 4. **Save Progress:** Push your changes to your forked repository.
 5. **Create a Pull Request:** Submit a pull request, explaining your changes clearly.
-6. **Learn More:** For a deeper understanding, read our [Contribution Guidelines](contributing.md).
-
+ 
 ## Contact
 
 We're here to assist you on your journey with the E-Commerce Management System. If you need help or want to share feedback, feel free to reach out to us at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com). We're committed to ensuring a smooth management experience and helping you achieve prosperous outcomes!
