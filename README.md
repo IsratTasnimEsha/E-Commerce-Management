@@ -72,3 +72,9 @@ We welcome contributions from the community! If you're interested in contributin
 ## Contact
 
 We're here to assist you on your journey with the E-Commerce Management System. If you need help or want to share feedback, feel free to reach out to us at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com). We're committed to ensuring a smooth management experience and helping you achieve prosperous outcomes!
+
+## Author
+
+**Israt Tasnim Esha**  
+*Department of Computer Science and Engineering*  
+*Khulna University of Engineering and Technology*
