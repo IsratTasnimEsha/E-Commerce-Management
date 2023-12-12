@@ -2,18 +2,6 @@
 
 Welcome to the E-Commerce Management System! This project offers a powerful solution to manage your e-commerce platform using SQL databases. 
 
-## Table of Contents
-- [Features](#features)
-- [Database Schema](#database-schema)
-- [Getting Started](#getting-started)
-- - [Clone the Repository](#clone-the-repository)
-  - [Database Setup](#database-setup)
-  - [Configuration](#configuration)
-  - [Run the Application](#run-the-application)
-- [Usage](#usage)
-- [Contributing](#contributing)
-- [Contact](#contact)
-
 ## Features
 
 - **Product Management:** Easily add, update, and remove products from your store's catalog to keep your offerings current.
