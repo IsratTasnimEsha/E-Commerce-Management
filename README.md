@@ -71,7 +71,7 @@ We welcome contributions from the community! If you're interested in contributin
  
 ## Contact
 
-I'm here to assist you on your journey with the E-Commerce Management System. If you need help or want to share feedback, feel free to reach out to us at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
+I'm here to assist you on your journey with the E-Commerce Management System. If you need help or want to share feedback, feel free to reach out to me at [israttasnimesha1046@gmail.com](mailto:israttasnimesha1046@gmail.com).
 
 ## Author
 
