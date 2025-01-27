@@ -67,4 +67,4 @@ I'm here to assist you on your journey with the E-Commerce Management System. If
 **CSE 3108 - Digital Image Lab**  
 *Department of Computer Science and Engineering*  
 *Khulna University of Engineering and Technology*
-
+**Year:** 2023
